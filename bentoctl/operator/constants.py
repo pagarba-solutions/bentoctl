@@ -3,6 +3,7 @@ OFFICIAL_OPERATORS = {
     "aws-lambda": "bentoml/aws-lambda-deploy",
     "aws-sagemaker": "bentoml/aws-sagemaker-deploy",
     "aws-ec2": "bentoml/aws-ec2-deploy",
+    "aws-ec2-spot": "bentoml/aws-ec2-spot-deploy",
     "azure-functions": "bentoml/azure-functions-deploy",
     "azure-container-instances": "bentoml/azure-container-instances-deploy",  # noqa: E501
     "google-compute-engine": "bentoml/google-compute-engine-deploy",
